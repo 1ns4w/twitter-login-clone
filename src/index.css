@@ -1,0 +1,96 @@
+.header {
+    margin: 36px;
+    margin-bottom: 0px;
+}
+
+.header--icon {
+    color: var(--twitter-color);
+    font-size: 42px;
+}
+
+.header--titles {
+    width: 80%;
+}
+
+.titles--title {
+    font-weight: bold;
+}
+
+.titles--title:nth-child(1) {
+    margin: 40px 0;
+    font-size: 40px;
+}
+
+.titles--title:nth-child(2) {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.main {
+    margin: 0 36px;
+}
+
+.main--buttons {
+    width: 100%;
+}
+
+.main--button {
+    font-size: 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    height: 40px;
+    width: 100%;
+    border: 0;
+    padding: 0 16px;
+}
+
+.button--margin__8 {
+    margin-bottom: 8px;
+}
+
+.button--margin__16 {
+    margin-bottom: 16px;
+}
+
+.main--divisor {
+    margin-bottom: 8px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.button--icon {
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.main--button__white {
+    background-color: white;
+    border: 1px solid #d4dde1;
+}
+
+.button--text__blue {
+    color: var(--twitter-color);
+}
+
+.button--text__elipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.main--button__blue {
+    background-color: var(--twitter-color);
+    color: white;
+}
+
+.main--disclaimer {
+    font-size: 11px;
+    width: 100%;
+}
+
+.main--login {
+    margin-top: 60px;
+}
+
+.m
